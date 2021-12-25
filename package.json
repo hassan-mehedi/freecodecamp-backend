@@ -2,6 +2,7 @@
     "name": "fcc-learn-npm-package-json",
     "author": "Mehedi Hassan",
     "description": "A simple package.json generator for FCC",
+    "license": "MIT",
     "keywords": [
         "freecodecamp",
         "learn",
